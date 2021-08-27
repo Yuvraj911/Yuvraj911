@@ -1,10 +1,6 @@
 - 👋 Hi, I’m @Yuvraj911
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Open Source Contribution.
+- 🌱 I’m currently learning Data Structure and Algorithm.
+- 💞️ I’m looking to collaborate on Open Source Contribution.
+- 📫 For reaching me my email id is yuvrajamar17@gmail.com and my wattsapp number is 7324890134.
 
-<!---
-Yuvraj911/Yuvraj911 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
